@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82299359358",
+    "project_id": "app2-bea90",
+    "storage_bucket": "app2-bea90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82299359358:android:d106e3713bf110e9a0c82f",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82299359358-4knq8q4acddhcfvufmd9kn8auftovp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JMUrQ1dyCwBq3b4tZ48XpsEOR5Hh1DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82299359358-4knq8q4acddhcfvufmd9kn8auftovp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
